@@ -1,8 +1,10 @@
+# SQLite Tools
 /bin/sqldiff.exe
 /bin/sqlite3.exe
 /bin/sqlite3_analyzer.exe
 /bin/sqlite-tools-win-x64-3460100.zip
 
+# CSV Datasets
 /csv/1990VAERSDATA.csv
 /csv/1990VAERSSYMPTOMS.csv
 /csv/1990VAERSVAX.csv
@@ -114,9 +116,9 @@
 /csv/NonDomesticVAERSDATA.csv
 /csv/NonDomesticVAERSSYMPTOMS.csv
 /csv/NonDomesticVAERSVAX.csv
-/csv/Schema.ini
 
-/zip/NonDomesticVAERSDATA.zip
+# ZIPed Datasets
+/zip/AllVAERSDataCSVS.zip
 /zip/1990VAERSData.zip
 /zip/1991VAERSData.zip
 /zip/1992VAERSData.zip
@@ -153,6 +155,9 @@
 /zip/2023VAERSData.zip
 /zip/2024VAERSData.zip
 /zip/2025VAERSData.zip
+/zip/NonDomesticVAERSDATA.zip
 
+# Misc. Files
+/csv/Schema.ini
 /build-db2.zip
 /VAERS.db
